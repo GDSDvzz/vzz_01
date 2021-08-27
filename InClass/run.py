@@ -5,7 +5,7 @@ from  selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 
-from InClass import  c06_01
+import c06_01
 
 driver = webdriver.Chrome()
 ii = (3,1,4)
